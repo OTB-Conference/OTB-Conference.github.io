@@ -336,8 +336,9 @@ ol {
 }
 
 dl dd {
+  padding-left: 20px;
   font-style: italic;
-  font-weight: 100;
+  /*font-weight: 100;*/
 }
 
 footer {
