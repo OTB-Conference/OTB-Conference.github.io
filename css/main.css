@@ -115,7 +115,7 @@ i {
 	margin-top: -20px;
     margin-bottom: 20px;
 	padding-top:130px;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 	background-attachment: relative;
 	background-position: center center;
 	min-height: 650px;
@@ -157,10 +157,10 @@ i {
 }
 
 #heropage .pitch > p {
-    margin-top: 20px;
-    margin-bottom: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
 	font-weight: 400;
 	letter-spacing: 1px;
 }
